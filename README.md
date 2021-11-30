@@ -4,7 +4,7 @@
 - 🔭 Hoje eu trabalho com front-end e alguns projetos em back-end
 - 🌱 Estudando: JavaScritp, HTML5 e CSS
 - 📫 Fale comigo pelo e-mail: contatotyagowiesner@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/tyagoaw">
