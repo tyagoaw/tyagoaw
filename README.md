@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Tyago A. Wiesner 👋
 
 
-- 🔭 Hoje eu trabalho com front-end
+- 🔭 Hoje eu trabalho com front-end e alguns projetos em back-end
 - 🌱 Estudando: JavaScritp, HTML5 e CSS
 - 📫 Fale comigo pelo e-mail: contatotyagowiesner@gmail.com
 
