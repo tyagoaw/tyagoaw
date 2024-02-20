@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho com front-end e alguns projetos em back-end
-- 🌱 Estudando: JavaScritp, HTML5 e CSS
+- 🌱 Estudando: JavaScritp, React e NodeJs
 - 📫 Fale comigo pelo e-mail: contatotyagowiesner@gmail.com
 
 
