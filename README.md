@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Tyago A. Wiesner 👋
 
 
-- 🔭 Hoje eu trabalho com front-end e alguns projetos em back-end
-- 🌱 Estudando: JavaScritp, React e NodeJs
+- 🔭 Hoje eu trabalho com foco e estudo back-end
+- 🌱 Estudando Python e Java 
 - 📫 Fale comigo pelo e-mail: contatotyagowiesner@gmail.com
 
 
